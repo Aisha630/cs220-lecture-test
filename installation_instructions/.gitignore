@@ -1,0 +1,5 @@
+!pixi.toml
+.DS_Store
+.pixi/
+__pycache__/
+pixi.lock

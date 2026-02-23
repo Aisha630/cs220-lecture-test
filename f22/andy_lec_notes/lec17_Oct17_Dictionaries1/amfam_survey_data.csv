@@ -1,0 +1,33 @@
+pizza topping,state,years,sleep preference,month,pets,lat-long
+mushroom,Florida,7,early bird,March,,"30.263214888389417, -81.54792098150529"
+pineapple,Wisconsin,4,night owl,April,other,"43.1581437, -89.2921125"
+sausage,Wisconsin,10,early bird,July,other,"43.15645, -89.28814"
+pepperoni,WI,7,no preference,September,"dog,cat","43.073051, -89.401230"
+mushroom,madison,7,early bird,November,,
+pepperoni,FL,1,no preference,December,dog,"42.35623761108948, -71.05691488946681"
+pepperoni,Wisconsin,2,night owl,February,,"43.159045128642774, -89.29146323507756"
+mushroom,Florida,0.5,night owl,May,other,"43.160601, -89.287671"
+mushroom,Wisconsin,10,no preference,January,"dog,fish","43.1562216,-89.2880086"
+pineapple,Wisconsin,8,night owl,July,dog,"43.158655, -89.289895"
+sausage,Minnesota,15,no preference,August,"dog,cat","45.13881645889933, -93.47636590830673"
+pepperoni,New Jersey,1,night owl,May,other,"43.07148896663423, -89.40567798752735"
+basil,Rhode Island,1,night owl,March,dog,"43.156490793353775, -89.28796434617352"
+mushroom,TX,1,no preference,January,dog,
+pineapple,Florida,3,early bird,July,other,"27.979191147972834, -82.33356380365498"
+sausage,Wisconsin,0,early bird,December,"dog,cat","43.15631441766965, -89.28785659081201"
+pineapple,Wisconsin,6,no preference,June,dog,"43.157716440341964, -89.28939262164963"
+mushroom,Florida,7,no preference,July,other,"30.053546, -81.514610"
+sausage,Florida,3,early bird,January,"dog,fish","30.263357, -81.547884"
+mac&cheese,Wisconsin,5,night owl,July,dog,"43.158328032172754, -89.28946714938327"
+pepperoni,Wisconsin,10,early bird,April,other,"43.1884213,-89.2762121"
+other,Wisconsin,10,early bird,August,other,"43.15833, -89.28988"
+sausage,WI,14,night owl,September,"dog,cat","43.15733597381252, -89.29013010509833"
+sausage,Wisconsin,6,no preference,August,"dog,cat","43.159061371631616, -89.29141118826759"
+pepperoni,Wisconsin,8,early bird,September,"dog,cat,fish",43.158359 -89.289972
+pineapple,Florida,8,night owl,October,,"30.263432655702932, -81.54807118535949"
+pineapple,TX,4,night owl,October,dog,"42.3558293029345, -71.05683171712127"
+other,WI,2,early bird,June,,
+mushroom,Wisconsin,20,early bird,September,dog,"43.15826500058843, -89.28945716165009"
+sausage,Wisconsin,8,night owl,June,dog,"43.15839022178169, -89.28998287477457"
+sausage,Wisconsin,20,night owl,April,bird,"43.15648555750267, -89.28783647996661"
+pineapple,Texas,0.5,early bird,August,other,"43, 89"
